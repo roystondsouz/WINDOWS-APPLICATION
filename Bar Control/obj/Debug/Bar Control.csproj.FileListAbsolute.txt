@@ -1,0 +1,10 @@
+C:\Users\mca\source\repos\Bar Control\bin\Debug\Bar Control.exe.config
+C:\Users\mca\source\repos\Bar Control\bin\Debug\Bar Control.exe
+C:\Users\mca\source\repos\Bar Control\bin\Debug\Bar Control.pdb
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar Control.csproj.AssemblyReference.cache
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar_Control.Form1.resources
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar_Control.Properties.Resources.resources
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar Control.csproj.GenerateResource.cache
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar Control.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar Control.exe
+C:\Users\mca\source\repos\Bar Control\obj\Debug\Bar Control.pdb
