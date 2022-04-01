@@ -1,0 +1,9 @@
+E:\DOt .net\prg1\bin\Debug\prg1.exe.config
+E:\DOt .net\prg1\bin\Debug\prg1.exe
+E:\DOt .net\prg1\bin\Debug\prg1.pdb
+E:\DOt .net\prg1\obj\Debug\prg1.Form1.resources
+E:\DOt .net\prg1\obj\Debug\prg1.Properties.Resources.resources
+E:\DOt .net\prg1\obj\Debug\prg1.csproj.GenerateResource.cache
+E:\DOt .net\prg1\obj\Debug\prg1.csproj.CoreCompileInputs.cache
+E:\DOt .net\prg1\obj\Debug\prg1.exe
+E:\DOt .net\prg1\obj\Debug\prg1.pdb
